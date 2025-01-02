@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kaylayan/CodeFlurry/learn-c/static'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _sum, symObjAddr: 0x0, symBinAddr: 0x100003EDC, symSize: 0x28 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _sum, symObjAddr: 0x0, symBinAddr: 0x100003EDC, symSize: 0x28 }
+  - { offsetInCU: 0x58, offset: 0x58, size: 0x8, addend: 0x0, symName: _sum.sum, symObjAddr: 0x4F0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x28, symBinAddr: 0x100003F04, symSize: 0x8C }
+...

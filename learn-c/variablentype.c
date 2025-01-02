@@ -39,7 +39,6 @@ int main(){
 		grades[1][3] = 82;
 		grades[1][4] = 87;
 
-		/* TODO: complete the for loop with appropriate terminating conditions */
 		for (i = 0; i < 2; i++) {
 			average = 0;
 			for (j = 0; j <5 ; j++) {
